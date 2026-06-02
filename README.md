@@ -359,3 +359,9 @@ This exercise provided practical experience in web application exploitation, ser
 ## Disclaimer
 
 This walkthrough was performed in a controlled lab environment for educational and authorized security testing purposes only.
+
+
+👨‍💻 Author
+Salik Karimkhan
+
+Aspiring Penetration Tester 💀
