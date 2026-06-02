@@ -84,7 +84,7 @@ CentOS 4.5
 📸 Screenshot:
 
 ```text
-screenshots/02-nmap-scan.png
+https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/6a57637e85b74a903397398ece07db6835ff947c/Screenshot%202026-06-02%20105408.png
 ```
 
 ---
@@ -102,7 +102,7 @@ Several public vulnerabilities were identified for Apache 2.0.52.
 📸 Screenshot:
 
 ```text
-screenshots/03-searchsploit.png
+https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/6a57637e85b74a903397398ece07db6835ff947c/Screenshot%202026-06-02%20110312.png
 ```
 
 ---
@@ -132,14 +132,6 @@ The login request was intercepted using Burp Suite and sent to Intruder for payl
 
 The authentication request was captured and modified to test SQL Injection payloads.
 
-📸 Screenshot:
-
-```text
-screenshots/04-burp-request.png
-```
-
----
-
 ## Intruder Attack
 
 Several payloads were tested:
@@ -154,7 +146,7 @@ admin') or ('1'='1
 📸 Screenshot:
 
 ```text
-screenshots/05-intruder-attack.png
+https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/6a57637e85b74a903397398ece07db6835ff947c/Screenshot%202026-06-02%20110831.png
 ```
 
 ---
@@ -180,7 +172,7 @@ This confirmed a SQL Injection vulnerability leading to authentication bypass.
 📸 Screenshot:
 
 ```text
-screenshots/06-auth-bypass.png
+https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/6a57637e85b74a903397398ece07db6835ff947c/Screenshot%202026-06-02%20110856.png
 ```
 
 ---
@@ -200,7 +192,7 @@ This feature became the primary target for further testing.
 📸 Screenshot:
 
 ```text
-screenshots/07-admin-panel.png
+
 ```
 
 ---
