@@ -211,20 +211,17 @@ Output:
 uid=48(apache) gid=48(apache)
 ```
 
-📸 Screenshot:
+📸 Screenshot:https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/b9b13cda19bcf6fdf67f61eaab839dd063f9c759/Screenshot%202026-06-02%20111259.png
 
-```text
-screenshots/09-reverse-shell.png
-```
 
----
 
 # ⬆️ Privilege Escalation
 
 ## System Information
 
 ```bash
-cat /etc/*-release
+uname -a
+lsb_release -a
 ```
 
 Output:
