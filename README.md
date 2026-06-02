@@ -25,18 +25,15 @@ The objective of this assessment was to identify vulnerabilities within the targ
 
 ## Host Discovery
 
-Using ARP Scan to identify live hosts on the network.
+Using netdiscover to identify live hosts on the network.
 
 ```bash
-sudo arp-scan -l
+netdicover
 ```
 
 ### Result
 
-```text
-192.168.10.8
-```
----
+📸 Screenshot
 
 # 🌐 Port Scanning & Service Enumeration
 
@@ -74,8 +71,7 @@ CentOS 4.5
 * Multiple RPC services available.
 * Legacy Linux kernel version.
 
-📸 Screenshot:
-https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/6a57637e85b74a903397398ece07db6835ff947c/Screenshot%202026-06-02%20105408.png
+📸 Screenshot:https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/6a57637e85b74a903397398ece07db6835ff947c/Screenshot%202026-06-02%20105408.png
 
 ---
 
