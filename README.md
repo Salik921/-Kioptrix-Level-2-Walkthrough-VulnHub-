@@ -82,10 +82,7 @@ CentOS 4.5
 * Legacy Linux kernel version.
 
 📸 Screenshot:
-
-```text
 https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/6a57637e85b74a903397398ece07db6835ff947c/Screenshot%202026-06-02%20105408.png
-```
 
 ---
 
