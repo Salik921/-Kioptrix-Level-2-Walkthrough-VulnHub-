@@ -181,13 +181,7 @@ The server executed arbitrary operating system commands.
 
 This confirmed a Command Injection vulnerability.
 
-📸 Screenshot:
-
-```text
-screenshots/08-command-injection.png
-```
-
----
+📸 Screenshot:https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/08534b7b657779de88a00f9113735c03ba7c28da/Screenshot%202026-06-02%20111003.png
 
 # 🐚 Reverse Shell
 
