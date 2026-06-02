@@ -150,13 +150,9 @@ Welcome to the Basic Administrative Web Console
 
 This confirmed a SQL Injection vulnerability leading to authentication bypass.
 
-📸 Screenshot:
+📸 Screenshot:https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/6a57637e85b74a903397398ece07db6835ff947c/Screenshot%202026-06-02%20110856.png
 
-```text
-https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/6a57637e85b74a903397398ece07db6835ff947c/Screenshot%202026-06-02%20110856.png
-```
 
----
 
 # 🖥️ Administrative Console Access
 
