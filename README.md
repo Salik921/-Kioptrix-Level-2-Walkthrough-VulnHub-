@@ -36,13 +36,6 @@ sudo arp-scan -l
 ```text
 192.168.10.8
 ```
-
-📸 Screenshot:
-
-```text
-screenshots/01-host-discovery.png
-```
-
 ---
 
 # 🌐 Port Scanning & Service Enumeration
@@ -96,13 +89,9 @@ searchsploit Apache 2.0.52
 
 Several public vulnerabilities were identified for Apache 2.0.52.
 
-📸 Screenshot:
+📸 Screenshot:https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/6a57637e85b74a903397398ece07db6835ff947c/Screenshot%202026-06-02%20110312.png
 
-```text
-https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/6a57637e85b74a903397398ece07db6835ff947c/Screenshot%202026-06-02%20110312.png
-```
 
----
 
 # 💉 SQL Injection Authentication Bypass
 
@@ -140,13 +129,8 @@ admin' or '1'='1
 admin') or ('1'='1
 ```
 
-📸 Screenshot:
+📸 Screenshot:https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/6a57637e85b74a903397398ece07db6835ff947c/Screenshot%202026-06-02%20110831.png
 
-```text
-https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/6a57637e85b74a903397398ece07db6835ff947c/Screenshot%202026-06-02%20110831.png
-```
-
----
 
 ## Successful Payload
 
