@@ -166,13 +166,8 @@ Ping a Machine on the Network
 
 This feature became the primary target for further testing.
 
-📸 Screenshot:
+📸 Screenshot:https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/135a9db0d54da7fa1ae0244b1f8ddb305a6821e4/Screenshot%202026-06-02%20202156.png
 
-```text
-
-```
-
----
 
 # 💻 Command Injection
 
