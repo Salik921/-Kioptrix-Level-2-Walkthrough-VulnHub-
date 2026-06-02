@@ -33,7 +33,7 @@ netdicover
 
 ### Result
 
-📸 Screenshot
+📸 Screenshot:https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/eb25ced877cb1b8973b7c2eaeab0a3dc765d22ed/Screenshot%202026-06-02%20202027.png
 
 # 🌐 Port Scanning & Service Enumeration
 
