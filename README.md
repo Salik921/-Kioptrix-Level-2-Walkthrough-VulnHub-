@@ -224,17 +224,7 @@ uname -a
 lsb_release -a
 ```
 
-Output:
-
-```text
-CentOS release 4.5 (Final)
-```
-
-📸 Screenshot:
-
-```text
-screenshots/10-os-information.png
-```
+📸 Screenshot:https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/7f05be457fe6e39c1b4a2c9deadbd4a3c0a6a655/Screenshot%202026-06-02%20111615.png
 
 ---
 
@@ -243,16 +233,10 @@ screenshots/10-os-information.png
 Attacker Machine:
 
 ```bash
-python -m http.server 80
+python -m http.server 9000
 ```
 
-📸 Screenshot:
 
-```text
-screenshots/11-python-server.png
-```
-
----
 
 ## Exploit Transfer
 
@@ -300,11 +284,7 @@ uid=0(root) gid=0(root)
 
 🎉 Root shell successfully obtained.
 
-📸 Screenshot:
-
-```text
-screenshots/13-root-proof.png
-```
+📸 Screenshot:https://github.com/Salik921/-Kioptrix-Level-2-Walkthrough-VulnHub-/blob/b789d815bc52d5b180eb099bdce8f873c85623e4/Screenshot%202026-06-02%20112055.png
 
 ---
 
